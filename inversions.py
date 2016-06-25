@@ -1,4 +1,4 @@
-f=open("arr.txt","r")
+f=open("arr.txt","r") #input file
 x=[]
 for i in f:
     
